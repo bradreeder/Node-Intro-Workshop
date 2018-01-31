@@ -138,3 +138,6 @@ note: use global module installations sparingly and only for development purpose
 We now have everything we need to start writing Node code in this repo and create our first http server!
 
 The next part of this tutorial will be done as a code along.
+
+### Client-Server Process
+![](https://i.imgur.com/6IKFtGD.jpg)
